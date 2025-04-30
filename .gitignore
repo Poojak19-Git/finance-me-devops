@@ -2,3 +2,7 @@ target/
 *.log
 .terraform/
 terraform.tfstate*
+target/
+*.log
+.terraform/
+terraform.tfstate*
